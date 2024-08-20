@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(106, 106, 197);
+    text-decoration: rgb(49, 5, 5);
+    display: flex;
+
+}
+h1{
+    color: rgb(19, 114, 83);
+    text-align: justify;
+    display: inline-flex;
+    align-items: flex-start;
+    
+}
+a{
+    color: rgb(19, 114, 83);
+    text-align: justify;
+    display: inline-flex;
+    
+
+}
+a,ul{
+    color: black;
+    text-align: justify;
+    display: inline-flex;
+    align-items: flex-end;
+}
